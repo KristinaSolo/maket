@@ -1,0 +1,52 @@
+h3,
+.osnova {
+    text-align: center;
+    height: 50px;
+}
+
+.osnova {
+    height: 450px;
+}
+
+.sectorfoot {
+    clear: both;
+    height: 100px;
+}
+
+
+.blokmain {
+    float: left;
+    margin: 100px;
+}
+
+.blok1,
+.blok2,
+.blok3 {
+    margin: 55px;
+    height: 55px;
+    width: 350px;
+    display: inline-block;
+}
+
+.left {
+    float: right;
+    height: 282px;
+    width: 225px;
+    padding: 50px;
+}
+
+
+
+.foot1,
+.foot2,
+.foot3,
+.foot4 {
+    display: inline-block;
+    margin-right: 250px;
+    border-top-width: 50px;
+
+}
+
+.foot1 {
+    margin-left: 130px;
+}
